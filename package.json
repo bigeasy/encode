@@ -1,6 +1,6 @@
 {
     "name":             "encode",
-    "version":          "9.9.9",
+    "version":          "0.0.0",
     "author":           "Alan Gutierrez <alan@prettyrobots.com>",
     "description":      "Utilities for encoding and decoding records for database storage.",
     "url":              "http://bigeasy.github.com/encode",
