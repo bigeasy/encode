@@ -1,0 +1,15 @@
+Encode
+
+Utilities for encoding and decoding records for database storage.
+
+    Documentation:  http://bigeasy.github.io/encode
+    Source:         http://github.com/bigeasy/encode
+    Issues:         http://github.com/bigeasy/encode/issues
+
+    Install:        `npm install encode`
+
+    License:        MIT
+
+To learn everything you want to know about Encode start here:
+
+    http://bigeasy.github.io/encode
