@@ -1,3 +1,4 @@
 ### Issue by Issue
 
- * Update `LICENSE` for 2014.
+ * Upgrade Proof to 0.0.41. #9.
+ * Update `LICENSE` for 2014. #8.
