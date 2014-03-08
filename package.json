@@ -9,7 +9,7 @@
                         "database", "json", "b-tree", "concurrent", "persistence"
     ],
     "contributors":     [],
-    "homepage":         "https://github.com/bigeasy/revise",
+    "homepage":         "https://github.com/bigeasy/encode",
     "bugs":             "https://github.com/bigeasy/encode/issues",
     "licenses":
     [{

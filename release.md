@@ -1,5 +1,6 @@
 ### Issue by Issue
 
+ * Remove "revise" from `package.json`. #13.
  * Remove "url" from `package.json`. #12.
  * Upgrade Proof to 0.0.44. #11.
  * Upgrade Proof to 0.0.41. #9.
