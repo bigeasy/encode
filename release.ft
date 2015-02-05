@@ -1,5 +1,6 @@
 ### Issue by Issue
 
+ * Use a `prove` named function in tests. #20.
  * Remove `require.t.js`. #19.
  * Update license dates. #18.
  * Rename main module to `encode.js`. #17.
