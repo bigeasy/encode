@@ -21,6 +21,7 @@
                         "type": "git",
                         "url": "http://github.com/bigeasy/encode.git"
     },
+    "main":             "encode",
     "dependencies":
     {
     },
