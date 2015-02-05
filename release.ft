@@ -1,4 +1,5 @@
 ### Issue by Issue
 
+ * Remove `require.t.js`. #19.
  * Update license dates. #18.
  * Rename main module to `encode.js`. #17.
