@@ -1,7 +1,6 @@
 {
     "name":                 "encode",
     "version":              "1.0.0",
-    "author":               "Alan Gutierrez <alan@prettyrobots.com>",
     "description":
 
       "Utilities for encoding and decoding records for database storage.",
@@ -11,6 +10,7 @@
                             "btree", "leveldb", "levelup", "binary", "mvcc",
                             "database", "json", "b-tree", "concurrent", "persistence"
     ],
+    "author":               "Alan Gutierrez <alan@prettyrobots.com>",
     "homepage":             "https://bigeasy.github.io/encode",
     "bugs":                 "https://github.com/bigeasy/encode/issues",
     "license":              "MIT",
@@ -19,7 +19,6 @@
                             "type": "git",
                             "url": "http://github.com/bigeasy/encode.git"
     },
-    "main":                 "encode",
     "dependencies":
     {
     },
@@ -27,6 +26,7 @@
     {
                             "proof":                        "1.x"
     },
+    "main":                 "encode",
     "scripts":
     {
                             "test": "proof platform win32 && proof test */*/*.t.js || t/test"
